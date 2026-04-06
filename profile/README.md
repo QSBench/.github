@@ -4,7 +4,7 @@
 
 **High-quality synthetic quantum datasets for Quantum Machine Learning, noise robustness, and sim-to-real research.**
 
-We are building the missing bridge between ideal quantum simulation and real hardware behavior.
+We build the missing bridge between ideal quantum simulation and real hardware behavior.
 
 ---
 
@@ -28,7 +28,7 @@ Everything is designed for modern quantum machine learning research and benchmar
 - GPU-accelerated generation with Qiskit Aer
 - Advanced noise models closest to real quantum hardware
 - Parquet + CSV output with complete provenance
-- Reproducible and transparent dataset releases
+- Reproducible splits and full metadata for every release
 
 ---
 
@@ -36,19 +36,15 @@ Everything is designed for modern quantum machine learning research and benchmar
 
 - **[QSBench Generator](https://github.com/QSBench/QSBench-Generator)** — open-source tool to create your own datasets
 - Public datasets and demos on **[Hugging Face @QSBench](https://huggingface.co/QSBench)**
-- Regular releases: Core, Thermal, Device, Readout and Research packs
 
 ---
 
-### Why Support QSBench?
+### 💰 Support QSBench
 
-Your donations help us:
-- Generate larger and more diverse datasets
-- Cover GPU and infrastructure costs
-- Continue developing new realistic noise models
-- Keep everything open-source and freely available to the community
+You can support the project directly on this Giveth page:  
+**[https://giveth.io/project/qsbench](https://giveth.io/project/qsbench)**
 
-Every contribution directly accelerates open quantum research.
+Your donations help us generate larger datasets, cover GPU costs, and continue developing new realistic noise models.
 
 ---
 
@@ -82,4 +78,4 @@ Every contribution directly accelerates open quantum research.
 
 **Made with ❤️ for the quantum community**
 
-[Website](https://qsbench.github.io) • [Hugging Face](https://huggingface.co/QSBench) • [Generator Repository](https://github.com/QSBench/QSBench-Generator)
+[Website](https://qsbench.github.io) • [Hugging Face](https://huggingface.co/QSBench) • [Generator Repository](https://github.com/QSBench/QSBench-Generator) • [Support on Giveth](https://giveth.io/project/qsbench)
