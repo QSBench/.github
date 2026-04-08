@@ -39,15 +39,6 @@ Everything is designed for modern quantum machine learning research and benchmar
 
 ---
 
-### 💰 Support QSBench
-
-You can support the project directly on this Giveth page:  
-**[https://giveth.io/project/qsbench](https://giveth.io/project/qsbench)**
-
-Your donations help us generate larger datasets, cover GPU costs, and continue developing new realistic noise models.
-
----
-
 ### Use Cases
 
 - Noise robustness & error mitigation benchmarking
@@ -73,6 +64,18 @@ Your donations help us generate larger datasets, cover GPU costs, and continue d
 
 - Generator: **Apache 2.0**
 - Datasets: **CC BY-NC 4.0** (research & personal use)
+
+---
+
+### 💰 Support QSBench
+
+You can support the project directly on this Giveth page:  
+
+- [Giveth](https://giveth.io/project/qsbench)
+- USDT (TRC20): `TQcgRru2yjPjCtqDkHYMr5vsRcejbpk1zG`
+- TON: `UQCPgjp_yK9c-Wn_708xDR_DZ6Pi6DnfqXfQRqQcc9W7xD0f`
+
+Your donations help us generate larger datasets, cover GPU costs, and continue developing new realistic noise models.
 
 ---
 
